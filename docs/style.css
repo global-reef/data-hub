@@ -44,3 +44,11 @@ a:hover {
   padding: 1rem;
   margin-bottom: 1rem;
 }
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+  height: auto;
+}
+
