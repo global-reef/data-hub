@@ -1,4 +1,8 @@
-# Global Reef Open Data Repository
+<p align="center">
+  <img src="GlobalReef_LogoStackFilled_WhiteOnBlue.png" alt="Global Reef Logo" width="300"/>
+</p>
+
+#  Open Access Data Repository
 
 Welcome to the open-access data hub for **Global Reef**, a marine research and conservation organization based in Thailand. This repository hosts curated, version-controlled datasets used in our field studies, monitoring programs, and ecological assessments.
 
