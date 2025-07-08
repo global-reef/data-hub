@@ -1,8 +1,8 @@
 body {
   font-family: 'DM Sans', sans-serif;
   font-weight: 100;
-  background-color: #F0EEE8;
-  color: #434343;
+  background-color: #4783F9; 
+  color: #F0EEE8;
   margin: 0;
   padding: 0;
 }
@@ -12,7 +12,7 @@ h1, h2, h3 {
 }
 
 header {
-  background-color: #4783F9;
+  background-color: #F0EEE8;
   padding: 1rem;
   text-align: center;
   color: white;
