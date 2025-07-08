@@ -15,7 +15,7 @@ gc = gspread.authorize(credentials)
 # Sheets to export
 sheets = {
     "ArtificialReefs_MASTER.csv": "https://docs.google.com/spreadsheets/d/1jpvxJ6ONqlqisBRHGjQlNpmFoPy5RXP0XdQg5R-1ayM",
-    "FishSize_MASTER.csv": "https://docs.google.com/spreadsheets/d/1AKiXHNcAd9m1HwAptyv6tVf6EOprdIts"
+    "FishSize_MASTER.csv": "https://docs.google.com/spreadsheets/d/1PrWwiDlf77t2UawT6vJA2vBSYkvZ2buyNXhrdeCzLqU"
 }
 
 # Output folder
