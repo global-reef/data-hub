@@ -1,21 +1,17 @@
 body {
   font-family: 'DM Sans', sans-serif;
   font-weight: 100;
-  background-color: #4783F9; 
-  color: #F0EEE8;
+  background-color: #4783F9;  /* True Blue */
+  color: #F0EEE8;             /* White Sand */
   margin: 0;
   padding: 0;
 }
 
-h1, h2, h3 {
-  font-weight: 900;
-}
-
 header {
-  background-color: #F0EEE8;
-  padding: 1rem;
+  background-color: #434343;  /* Charcoal */
+  color: #F0EEE8;             /* White Sand */
   text-align: center;
-  color: white;
+  padding: 1rem;
 }
 
 header img {
@@ -28,19 +24,23 @@ main {
   margin: 0 auto;
 }
 
-.dataset {
-  background: white;
-  border: 1px solid #ccc;
-  padding: 1rem;
-  margin-bottom: 1rem;
-  border-left: 6px solid #4783F9;
+h1, h2, h3 {
+  font-weight: 900;
+  color: #F0EEE8;             /* White Sand */
 }
 
-.dataset a {
-  color: #4783F9;
+a {
+  color: #F8EA8C;   /* Sunlight for contrast */
   text-decoration: none;
 }
 
-.dataset a:hover {
+a:hover {
   text-decoration: underline;
+}
+
+.dataset {
+  background: #2b4f95;         /* 40% True Blue variant */
+  border-left: 5px solid #F49D7D; /* Coral accent */
+  padding: 1rem;
+  margin-bottom: 1rem;
 }
