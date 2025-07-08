@@ -1,0 +1,40 @@
+name: Sync Google Sheets to CSV
+
+on:
+  schedule:
+    - cron: "0 2 * * *"  # Runs daily at 2am UTC
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Install dependencies
+        run: pip install gspread oauth2client pandas
+
+      - name: Run artificial reef sync
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: python scripts/pull_artificial_reef.py
+
+      - name: Run COTS research sync
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: python scripts/pull_cots_research.py
+
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "global-reef-bot"
+          git config --global user.email "bot@globalreef.org"
+          git add -A
+          git commit -m "Auto-update from Google Sheets" || echo "No changes to commit"
+          git push
