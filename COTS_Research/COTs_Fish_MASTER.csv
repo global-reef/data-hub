@@ -1,0 +1,541 @@
+Survey_ID,Site,Date_mm/dd/yy,Depth,Time,Duration,Visbility_m,Researcher,GrowthForm,0-20,20-40,40-60,60-80,80+,Bleaching,Site_Type
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Massive,6,10,8,12,15,Pre,High Density
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Sub Massive,3,14,23,12,15,Pre,High Density
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Caespitose,4,2,0,0,0,Pre,High Density
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Corymbose,0,0,2,0,0,Pre,High Density
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Solitary,9,11,12,0,0,Pre,High Density
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Tabular,0,0,0,0,1,Pre,High Density
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Foliose,14,12,6,0,0,Pre,High Density
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Laminar,4,2,6,0,0,Pre,High Density
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR1,Green Rock Wall,03/01/2023,11.0,NA,NA,NA,GlobalReef,Encrusting,16,15,24,0,2,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Massive,3,5,6,7,11,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Sub Massive,2,19,16,16,8,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Arborescent,0,0,1,0,0,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Caespitose,0,0,0,0,0,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Corymbose,1,2,1,0,0,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Solitary,4,2,2,0,0,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Tabular,0,0,0,1,0,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Foliose,6,4,0,0,0,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Laminar,1,1,0,0,0,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR2,Green Rock Wall,04/01/2023,12.0,NA,NA,NA,GlobalReef,Encrusting,28,25,8,5,1,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Massive,4,4,2,2,29,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Sub Massive,6,6,8,4,3,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Arborescent,1,1,0,0,0,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Caespitose,1,0,2,0,0,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Corymbose,0,0,2,1,0,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Solitary,5,8,2,0,0,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Foliose,7,4,1,0,0,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Laminar,1,1,0,0,0,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR3,Green Rock Wall,05/01/2023,10.0,NA,NA,NA,GlobalReef,Encrusting,14,12,6,0,0,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Massive,4,8,12,9,8,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Sub Massive,5,8,10,12,5,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Caespitose,2,2,2,0,0,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Corymbose,1,0,1,0,0,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Solitary,11,26,8,0,0,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Foliose,7,2,0,0,0,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Laminar,0,1,1,0,0,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,1,1,0,0,Pre,High Density
+GR4,Green Rock Wall,06/01/2023,9.0,NA,NA,NA,GlobalReef,Encrusting,21,16,5,0,0,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Massive,1,5,1,1,13,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Sub Massive,4,9,10,15,6,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Arborescent,3,0,0,0,0,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Caespitose,0,1,0,0,0,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Solitary,9,9,3,0,0,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Foliose,1,1,0,0,0,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Laminar,2,0,0,0,0,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR5,Green Rock Wall,07/01/2023,12.0,NA,NA,NA,GlobalReef,Encrusting,39,13,7,2,3,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Massive,3,3,8,6,16,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Sub Massive,13,25,38,12,8,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Caespitose,2,2,2,0,0,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Corymbose,0,2,0,0,0,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Solitary,17,10,5,0,0,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Foliose,7,8,1,0,0,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Laminar,0,2,2,1,2,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,1,0,Pre,High Density
+GR6,Green Rock Wall,08/01/2023,12.0,NA,NA,NA,GlobalReef,Encrusting,37,26,13,3,0,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Massive,8,15,4,3,4,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Sub Massive,4,4,11,6,5,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Arborescent,1,0,0,0,0,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Caespitose,1,1,0,0,0,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Solitary,14,47,21,3,0,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Foliose,14,11,8,8,10,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Laminar,6,4,0,0,0,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,1,0,Pre,High Density
+GR7,Green Rock Wall,10/01/2023,11.0,NA,NA,NA,GlobalReef,Encrusting,37,16,5,1,0,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Massive,4,5,0,4,5,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Sub Massive,5,11,10,7,0,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Arborescent,0,1,0,0,0,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Caespitose,0,0,0,0,0,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Solitary,6,0,0,0,0,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Foliose,0,0,0,0,0,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Laminar,0,0,0,0,0,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR8,Green Rock Wall,03/25/2024,12.0,8:00,NA,12,GlobalReef,Encrusting,17,10,5,0,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Massive,3,2,2,2,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Sub Massive,35,48,24,6,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Arborescent,7,1,0,3,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Caespitose,7,2,1,0,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Corymbose,0,1,0,0,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Solitary,3,5,2,0,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Tabular,0,1,5,6,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Foliose,40,27,2,0,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Laminar,1,3,0,0,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR9,Green Rock Wall,04/16/2024,10.0,8:00,NA,12,GlobalReef,Encrusting,22,12,3,0,4,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Massive,14,7,4,3,13,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Sub Massive,32,25,5,2,4,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Arborescent,2,1,1,0,0,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Caespitose,6,1,0,0,0,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Solitary,22,0,0,0,0,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Foliose,14,2,1,0,0,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Laminar,2,0,0,0,0,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR10,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Encrusting,32,8,0,0,0,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Massive,12,2,4,1,1,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Sub Massive,59,28,10,1,2,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Caespitose,0,0,0,0,0,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Solitary,54,3,0,0,0,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Tabular,8,0,0,0,0,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Foliose,5,2,1,0,0,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Laminar,1,2,0,0,0,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR11,Green Rock Wall,06/21/2024,9.6,7:30,40,20,GlobalReef,Encrusting,59,5,2,0,0,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Massive,12,4,4,7,9,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Sub Massive,34,22,17,3,7,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Arborescent,2,0,1,1,0,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Caespitose,4,0,0,0,0,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Corymbose,0,1,0,0,0,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Solitary,19,0,0,0,0,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Foliose,8,1,0,1,0,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Laminar,0,0,1,0,0,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR12,Green Rock Wall,06/29/2024,10.0,7:30,NA,NA,GlobalReef,Encrusting,66,14,4,1,0,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Massive,3,6,4,6,7,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Sub Massive,37,16,8,2,0,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Caespitose,2,0,0,0,0,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Solitary,20,1,0,0,0,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Tabular,0,0,0,0,7,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Foliose,6,2,0,0,0,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Laminar,5,2,0,0,0,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR13,Green Rock Wall,06/29/2024,9.0,7:30,NA,NA,GlobalReef,Encrusting,27,7,5,0,0,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Massive,5,0,4,11,28,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Sub Massive,20,4,9,12,9,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Arborescent,0,1,0,0,0,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Caespitose,0,1,0,0,0,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Solitary,28,1,0,0,0,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Foliose,12,1,2,0,0,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Laminar,0,1,2,2,0,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,2,Pre,High Density
+GR14,Green Rock Wall,08/21/2024,11.0,8:00,NA,NA,GlobalReef,Encrusting,23,7,3,0,0,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Massive,6,8,7,7,17,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Sub Massive,11,3,5,2,0,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Arborescent,0,0,0,1,0,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Caespitose,0,0,0,0,0,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Corymbose,3,0,0,0,0,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Solitary,40,4,2,0,0,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Tabular,0,1,1,3,16,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Foliose,8,2,1,0,0,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Laminar,1,1,0,0,0,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR15,Green Rock Wall,08/21/2024,10.0,8:00,NA,NA,GlobalReef,Encrusting,21,9,2,0,0,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Massive,4,3,4,9,23,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Sub Massive,11,7,13,13,6,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Caespitose,8,2,1,0,0,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Corymbose,1,1,0,0,0,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Solitary,25,17,2,0,0,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Tabular,0,2,2,1,0,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Foliose,17,6,3,3,2,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Laminar,5,1,1,2,0,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+GR16,Green Rock Wall,08/26/2024,11.0,8:00,NA,NA,GlobalReef,Encrusting,22,11,10,3,1,Pre,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Massive,1,2,5,2,0,Post,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Sub Massive,27,37,30,8,3,Post,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Arborescent,0,1,2,5,0,Post,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Caespitose,5,1,0,0,0,Post,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Corymbose,1,2,0,0,0,Post,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Post,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Solitary,13,12,6,0,0,Post,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Tabular,0,0,0,0,3,Post,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Foliose,20,7,3,0,1,Post,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Laminar,0,7,0,0,0,Post,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Intracolonial Morph. Var.,2,0,0,0,3,Post,High Density
+GR17,Green Rock Wall,09/02/2024,11.0,8:00,NA,NA,GlobalReef,Encrusting,15,8,1,0,0,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Massive,3,4,1,1,4,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Sub Massive,7,10,1,0,0,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Arborescent,0,0,0,0,0,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Caespitose,0,0,0,0,0,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Corymbose,0,0,0,0,0,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Digitate,0,0,0,0,0,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Solitary,14,1,0,0,0,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Tabular,0,0,0,0,0,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Foliose,1,0,0,0,0,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Laminar,4,0,0,0,0,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Intracolonial Morph. Var.,0,0,0,0,0,Post,High Density
+GR20,Green Rock Wall,02/28/2025,11.0,7:36,55,8,"Keisha, Martin",Encrusting,14,3,0,0,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Massive,4,1,0,1,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Sub_Massive,3,5,5,1,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Arborescent,0,0,0,0,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Caespitose,1,1,0,0,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Corymbose,0,0,0,0,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Digitate,0,0,0,0,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Solitary,19,0,0,0,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Tabular,0,0,0,0,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Foliose,2,2,0,0,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Laminar,0,0,0,0,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Intracolonial_Morph._Var.,0,0,0,0,0,Post,High Density
+GR18,Green Rock Wall,02/19/2025,12.0,8:00,18,10,"Max, Georgia",Encrusting,17,8,2,0,0,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Massive,0,1,1,0,1,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Sub_Massive,14,11,3,3,0,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Arborescent,0,0,0,0,0,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Caespitose,0,2,0,0,0,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Corymbose,2,0,0,0,0,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Digitate,0,0,0,0,0,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Solitary,19,4,0,0,0,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Tabular,0,0,0,0,0,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Foliose,2,3,0,0,0,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Laminar,0,2,0,0,0,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Intracolonial_Morph._Var.,0,0,0,0,0,Post,High Density
+GR19,Green Rock Wall,02/19/2025,10.0,7:24,41,12,"Keisha, Elise",Encrusting,8,9,2,0,0,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Massive,7,1,3,1,14,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Sub_Massive,12,16,8,4,4,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Arborescent,1,1,2,0,0,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Caespitose,4,1,0,0,0,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Corymbose,1,0,0,0,0,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Digitate,0,0,0,0,0,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Solitary,8,0,0,0,0,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Tabular,0,0,0,0,5,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Foliose,12,5,0,0,2,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Laminar,2,0,0,0,0,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Intracolonial_Morph._Var.,0,0,0,0,0,Post,High Density
+GR21,Green Rock Wall,03/17/2025,8.5,9:48,25,10,"Max, Georgia, Elise",Encrusting,12,3,4,0,0,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Massive,5,3,3,2,7,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Sub_Massive,17,21,17,3,0,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Arborescent,1,1,0,0,0,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Caespitose,3,0,0,0,0,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Corymbose,0,2,0,0,0,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Digitate,0,0,0,0,0,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Solitary,9,2,1,0,0,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Tabular,0,0,0,0,0,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Foliose,4,3,1,0,0,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Laminar,1,1,0,0,0,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Intracolonial_Morph._Var.,0,0,0,0,0,Post,High Density
+GR22,Green Rock Wall,03/19/2025,10.0,7:24,30,15,"Camille, Elise ",Encrusting,10,10,3,2,0,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Massive,11,5,0,1,1,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Sub_Massive,25,14,8,3,2,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Arborescent,0,2,1,4,0,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Caespitose,0,0,0,0,0,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Corymbose,0,0,0,0,0,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Digitate,0,0,0,0,0,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Solitary,14,2,0,0,0,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Tabular,1,0,0,0,0,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Foliose,2,1,1,0,0,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Laminar,0,0,0,0,0,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Intracolonial_Morph._Var.,0,0,0,0,0,Post,High Density
+GR23,Green Rock Wall,03/26/2025,11.5,7:22,23,12,"Max, Georgia",Encrusting,10,7,0,0,0,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Massive,2,5,1,1,22,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Sub_Massive,6,10,10,6,0,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Arborescent,0,0,0,0,0,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Caespitose,1,0,0,0,0,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Corymbose,0,0,0,0,0,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Digitate,0,0,0,0,0,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Solitary,5,0,0,0,0,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Tabular,2,0,0,0,2,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Foliose,3,1,0,0,0,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Laminar,0,0,0,0,0,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Intracolonial_Morph._Var.,2,2,2,0,0,Post,High Density
+GR24,Green Rock Wall,03/26/2025,10.0,7:00,25,10,"Camille, Elise ",Encrusting,30,12,4,0,0,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Massive,4,4,5,1,10,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Sub_Massive,18,34,35,9,8,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Arborescent,0,0,0,0,1,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Caespitose,2,0,0,0,0,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Corymbose,0,1,0,0,0,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Digitate,0,0,0,0,0,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Solitary,4,3,0,0,0,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Tabular,0,0,0,0,2,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Foliose,6,1,1,0,0,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Laminar,1,1,0,0,0,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Intracolonial_Morph._Var.,0,0,0,0,0,Post,High Density
+GR25,Green Rock Wall,04/08/2025,7.4,9:08,35,10,"Eugenie, Gavin",Encrusting,25,10,0,1,0,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Massive,6,2,3,0,6,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Sub_Massive,38,13,6,0,0,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Arborescent,0,0,0,0,0,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Caespitose,1,0,1,0,0,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Corymbose,0,0,0,0,0,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Digitate,0,0,0,0,0,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Solitary,15,0,0,0,0,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Tabular,0,0,0,0,0,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Foliose,9,2,2,0,0,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Laminar,4,2,0,0,0,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Intracolonial_Morph._Var.,0,0,2,0,0,Post,High Density
+GR26,Green Rock Wall,04/15/2025,10.3,9:47,58,11,"Emma, Tessa",Encrusting,50,4,1,0,0,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Massive,1,2,1,5,30,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Sub_Massive,5,12,9,4,0,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Arborescent,1,0,0,0,0,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Caespitose,1,0,0,0,0,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Corymbose,0,0,0,0,0,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Digitate,0,0,0,0,0,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Solitary,6,2,0,0,0,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Tabular,0,0,0,0,0,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Foliose,5,0,0,0,0,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Laminar,0,0,0,0,0,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Intracolonial_Morph._Var.,2,2,2,0,0,Post,High Density
+GR27,Green Rock Wall,04/15/2025,10.0,9:38,NA,10,"Camille, Niamh",Encrusting,16,6,1,0,0,Post,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Massive,8,4,1,4,5,Pre,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Sub Massive,13,20,6,3,0,Pre,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Arborescent,0,1,0,0,0,Pre,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Caespitose,1,0,0,0,0,Pre,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Corymbose,3,0,0,0,0,Pre,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Solitary,40,26,3,0,0,Pre,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Foliose,26,4,1,0,2,Pre,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Laminar,5,3,1,0,0,Pre,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+RR1,Red Rock Wall,03/25/2024,13.0,9:30,NA,NA,GlobalReef,Encrusting,48,31,10,3,0,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Massive,1,1,1,0,16,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Sub Massive,9,9,7,5,5,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Arborescent,0,1,0,0,0,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Caespitose,0,0,0,0,0,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Digitate,0,1,0,0,0,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Solitary,8,4,0,0,0,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Tabular,1,0,0,0,0,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Foliose,4,1,0,0,0,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Laminar,0,0,0,0,0,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Intracolonial Morph. Var.,4,1,0,1,0,Pre,High Density
+RR2,Red Rock Wall,05/21/2024,12.0,10:00,NA,10,GlobalReef,Encrusting,60,2,1,0,0,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Massive,0,0,0,0,2,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Sub Massive,18,11,9,7,28,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Caespitose,1,0,0,0,0,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Corymbose,2,0,0,0,0,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Solitary,17,3,0,0,0,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Tabular,0,0,0,0,2,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Foliose,2,1,1,1,0,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Laminar,1,2,2,0,0,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Intracolonial Morph. Var.,0,1,0,1,3,Pre,High Density
+RR3,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Encrusting,130,4,1,0,0,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Massive,15,10,1,1,15,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Sub Massive,30,20,11,2,2,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Caespitose,2,1,0,0,0,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Solitary,58,11,0,0,0,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Foliose,11,2,0,0,0,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Laminar,7,0,0,0,0,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+RR4,Red Rock Wall,06/18/2024,12.0,8:00,40,12,GlobalReef,Encrusting,44,6,0,0,0,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Massive,17,5,3,4,16,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Sub Massive,49,18,7,5,14,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Caespitose,3,0,0,0,0,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Solitary,59,2,0,0,0,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Foliose,18,1,1,0,0,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Laminar,7,1,0,0,0,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Intracolonial Morph. Var.,6,0,0,0,0,Pre,High Density
+RR5,Red Rock Wall,06/21/2024,11.0,9:30,40,12,GlobalReef,Encrusting,100,5,1,0,0,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Massive,11,6,3,5,12,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Sub Massive,44,12,9,1,2,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Caespitose,0,0,0,0,0,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Solitary,75,5,1,0,0,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Tabular,3,0,0,0,0,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Foliose,18,2,0,0,0,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Laminar,15,4,4,1,1,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Intracolonial Morph. Var.,0,2,0,0,5,Pre,High Density
+RR6,Red Rock Wall,06/21/2024,12.0,9:30,40,12,GlobalReef,Encrusting,61,3,1,0,0,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Massive,5,2,6,8,10,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Sub Massive,5,7,11,13,7,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Caespitose,2,0,0,0,0,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Corymbose,0,0,0,0,0,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Solitary,67,9,5,0,0,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Foliose,10,5,0,0,1,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Laminar,5,1,2,0,0,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+RR7,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Encrusting,36,17,9,5,5,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Massive,14,8,4,4,3,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Sub Massive,14,13,9,8,0,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Caespitose,2,0,0,0,0,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Corymbose,1,0,0,0,0,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Solitary,50,27,14,2,0,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Foliose,10,3,0,0,0,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Laminar,2,0,0,0,1,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Intracolonial Morph. Var.,0,0,0,0,0,Pre,High Density
+RR8,Red Rock Wall,07/24/2024,12.0,12:00,40,NA,GlobalReef,Encrusting,40,13,0,0,0,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Massive,7,13,8,5,14,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Sub Massive,15,19,9,2,4,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Arborescent,0,0,0,0,0,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Caespitose,0,0,0,0,0,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Corymbose,4,0,0,0,0,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Digitate,0,0,0,0,0,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Solitary,98,26,8,0,0,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Tabular,0,0,0,0,0,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Foliose,9,1,0,0,0,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Laminar,16,2,5,0,0,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Intracolonial Morph. Var.,0,1,0,0,0,Pre,High Density
+RR9,Red Rock Wall,05/14/2024,10.0,14:00,NA,NA,GlobalReef,Encrusting,34,16,5,0,0,Pre,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Massive,3,1,1,1,4,Post,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Sub_Massive,22,11,5,2,0,Post,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Arborescent,0,0,0,0,0,Post,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Caespitose,0,0,0,0,0,Post,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Corymbose,0,0,0,0,0,Post,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Digitate,0,0,0,0,0,Post,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Solitary,13,9,1,0,0,Post,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Tabular,0,0,0,0,0,Post,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Foliose,1,0,0,0,0,Post,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Laminar,1,2,1,1,0,Post,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Intracolonial_Morph._Var.,1,0,0,0,0,Post,High Density
+RR10,Red Rock Wall,03/11/2025,12.0,8:00,25,10,"Martin, Georgia",Encrusting,9,2,0,0,0,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Massive,5,3,4,4,5,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Sub_Massive,26,25,12,12,7,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Arborescent,1,0,2,0,0,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Caespitose,8,0,0,0,0,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Corymbose,0,0,0,0,0,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Digitate,0,0,0,0,0,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Solitary,38,1,1,0,0,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Tabular,0,1,1,1,2,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Foliose,11,2,0,0,0,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Laminar,0,0,0,0,0,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Intracolonial_Morph._Var.,0,0,0,0,0,Post,High Density
+RR11,Red Rock Wall,03/18/2025,10.0,8:00,25,10,"Max, Georgia",Encrusting,25,3,0,0,0,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Massive,0,3,1,0,1,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Sub_Massive,14,22,14,11,10,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Arborescent,3,0,0,0,0,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Caespitose,8,1,0,0,0,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Corymbose,0,0,0,0,0,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Digitate,0,0,0,0,0,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Solitary,11,1,0,0,0,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Tabular,0,1,2,0,2,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Foliose,9,9,4,1,0,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Laminar,1,3,0,0,0,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Intracolonial_Morph._Var.,0,0,0,0,0,Post,High Density
+RR12,Red Rock Wall,03/26/2025,6.8,10:52,61,12,"Niamh, Renzo",Encrusting,10,9,5,1,0,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Massive,3,5,4,2,1,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Sub_Massive,15,17,21,16,10,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Arborescent,2,0,0,0,0,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Caespitose,0,1,0,0,0,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Corymbose,7,2,0,0,0,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Digitate,0,0,0,0,0,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Solitary,22,6,0,0,0,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Tabular,0,1,4,0,7,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Foliose,26,7,8,1,0,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Laminar,3,1,0,0,0,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Intracolonial_Morph._Var.,,1,1,0,0,Post,High Density
+RR13,Red Rock Wall,03/26/2025,7.3,10:52,60,12,"Lucca, Gavin",Encrusting,21,11,5,1,0,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Massive,0,2,2,1,4,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Sub_Massive,3,5,8,9,0,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Arborescent,1,2,0,0,0,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Caespitose,3,1,0,0,0,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Corymbose,1,3,0,0,0,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Digitate,0,0,0,0,0,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Solitary,7,1,0,0,0,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Tabular,0,0,0,0,0,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Foliose,4,12,2,1,0,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Laminar,1,4,2,0,0,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Intracolonial_Morph._Var.,0,3,0,0,0,Post,High Density
+RR14,Red Rock Wall,04/18/2025,7.5,7:20,NA,6,"Renzo, Niamh",Encrusting,1,5,2,1,0,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Massive,0,0,0,1,19,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Sub_Massive,11,7,11,6,4,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Arborescent,0,0,0,0,0,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Caespitose,0,0,0,0,3,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Corymbose,0,1,0,0,0,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Digitate,0,0,0,0,0,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Solitary,2,0,0,0,0,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Tabular,0,0,0,0,0,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Foliose,3,1,0,0,0,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Laminar,0,0,0,0,0,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Intracolonial_Morph._Var.,0,0,0,0,3,Post,High Density
+RR15,Red Rock Wall,05/26/2025,10.1,7:15,58,8,"Niamh, Tessa",Encrusting,6,2,0,1,0,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Massive,0,0,1,5,23,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Sub_Massive,13,7,9,6,2,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Arborescent,0,0,0,0,0,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Caespitose,1,1,0,0,0,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Corymbose,0,0,0,0,0,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Digitate,0,0,0,0,0,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Solitary,4,0,0,0,0,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Tabular,1,0,1,1,0,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Foliose,0,0,0,0,0,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Laminar,0,0,0,0,0,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Intracolonial_Morph._Var.,0,0,0,0,0,Post,High Density
+GR28,Green Rock Wall,05/28/2025,8.6,7:45,48,20,"Tessa, Ben",Encrusting,11,6,0,0,0,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Massive,9,6,4,4,10,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Sub_Massive,9,9,5,2,2,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Arborescent,0,0,0,0,0,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Caespitose,1,0,0,0,0,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Corymbose,1,1,0,0,0,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Digitate,0,0,0,0,0,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Solitary,10,10,0,0,0,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Tabular,0,4,7,0,0,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Foliose,4,2,0,0,0,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Laminar,3,0,0,1,1,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Intracolonial_Morph._Var.,0,0,0,0,0,Post,High Density
+RR16,Red Rock Wall,06/19/25,10.0,9:42,51,10,"Emma J, FLo, Mirea",Encrusting,20,12,2,0,0,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Massive,10,3,1,0,4,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Sub_Massive,17,4,3,0,2,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Arborescent,0,0,0,0,0,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Caespitose,0,0,0,0,0,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Corymbose,0,0,0,0,0,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Digitate,0,0,0,0,0,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Solitary,38,3,2,0,0,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Tabular,0,0,0,0,0,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Foliose,12,1,1,0,0,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Laminar,11,5,0,1,0,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Intracolonial_Morph._Var.,0,0,0,0,0,Post,High Density
+RR17,Red Rock Wall,06/25/2025,13.0,10:00,35,8,"Flo, Emma J",Encrusting,21,2,0,0,0,Post,High Density
