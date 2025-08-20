@@ -563,27 +563,75 @@ TW2,Twins Wall,01/28/2025,9.0,14:00,23,12,Gavin,Foliose,3.0,2.0,1.0,0.0,0.0,Post
 TW2,Twins Wall,01/28/2025,9.0,14:00,23,12,Gavin,Laminar,0.0,0.0,1.0,0.0,0.0,Post,High Density
 TW2,Twins Wall,01/28/2025,9.0,14:00,23,12,Gavin,Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,High Density
 TW2,Twins Wall,01/28/2025,9.0,14:00,23,12,Gavin,Encrusting,11.0,8.0,1.0,0.0,0.0,Post,High Density
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Massive,0.0,0.0,0.0,0.0,0.0,Post,
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Sub_Massive,0.0,0.0,0.0,0.0,0.0,Post,
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Arborescent,1.0,0.0,0.0,0.0,0.0,Post,
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Caespitose,0.0,0.0,0.0,0.0,0.0,Post,
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Corymbose,0.0,0.0,0.0,0.0,0.0,Post,
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Digitate,0.0,0.0,0.0,0.0,0.0,Post,
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Solitary,0.0,0.0,0.0,0.0,0.0,Post,
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Tabular,1.0,0.0,0.0,0.0,0.0,Post,
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Foliose,1.0,0.0,0.0,0.0,0.0,Post,
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Laminar,0.0,0.0,0.0,0.0,0.0,Post,
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,
-T1,Tanote,08/11/2025,8.1,15:20,22,20,Maddie+Maia,Encrusting,0.0,0.0,0.0,0.0,0.0,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Massive,0.5,0.5,0.0,0.0,0.0,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Sub_Massive,0.5,0.5,1.0,0.0,0.5,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Arborescent,0.0,0.0,0.0,0.0,0.0,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Caespitose,0.0,0.0,0.0,0.0,0.0,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Corymbose,0.0,0.0,0.0,0.0,0.0,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Digitate,0.0,0.0,0.0,0.0,0.0,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Solitary,0.5,0.0,0.0,0.0,0.0,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Tabular,0.0,0.0,0.0,0.0,0.0,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Foliose,1.0,0.0,0.5,0.0,0.0,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Laminar,0.5,0.5,0.0,0.0,0.0,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,
-T2,Tanote,08/11/2025,8.1,15:20,22,10,Teo and Mario,Encrusting,1.5,3.0,1.0,0.0,0.0,Post,
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Massive,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Sub_Massive,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Arborescent,1.0,0.0,0.0,0.0,0.0,Post,Control
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Caespitose,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Corymbose,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Digitate,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Solitary,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Tabular,1.0,0.0,0.0,0.0,0.0,Post,Control
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Foliose,1.0,0.0,0.0,0.0,0.0,Post,Control
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Laminar,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB1,Tanote,08/11/2025,8.1,15:20,22,20,"Maddie, Maia",Encrusting,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Massive,0.5,0.5,0.0,0.0,0.0,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Sub_Massive,0.5,0.5,1.0,0.0,0.5,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Arborescent,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Caespitose,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Corymbose,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Digitate,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Solitary,0.5,0.0,0.0,0.0,0.0,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Tabular,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Foliose,1.0,0.0,0.5,0.0,0.0,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Laminar,0.5,0.5,0.0,0.0,0.0,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,Control
+TB2,Tanote,08/11/2025,8.1,15:20,22,10,"Teo, Mario",Encrusting,1.5,3.0,1.0,0.0,0.0,Post,Control
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Massive,0.0,0.0,0.0,0.0,0.0,Post,High Density
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Sub_Massive,4.5,7.0,9.5,3.0,0.5,Post,High Density
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Arborescent,0.0,0.5,0.5,0.0,0.0,Post,High Density
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Caespitose,3.0,0.0,0.0,0.0,0.0,Post,High Density
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Corymbose,0.0,0.0,0.0,0.0,0.0,Post,High Density
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Digitate,0.0,0.0,0.0,0.5,0.0,Post,High Density
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Solitary,2.5,0.0,0.0,0.0,0.0,Post,High Density
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Tabular,0.0,0.0,0.0,0.0,0.5,Post,High Density
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Foliose,4.5,2.0,2.5,1.0,0.0,Post,High Density
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Laminar,1.0,0.5,0.5,0.0,0.0,Post,High Density
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Intracolonial_Morph._Var.,0.0,0.0,0.5,0.0,0.0,Post,High Density
+GR20,Green Rock Wall,07/31/2025,8.0,8:00,25,10,"Teo, Mario",Encrusting,13.5,4.5,2.5,0.0,0.0,Post,High Density
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Massive,0.0,0.0,0.0,0.0,0.0,Post,Control
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Sub_Massive,0.5,0.0,0.0,0.0,0.0,Post,Control
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Arborescent,0.5,0.0,0.0,0.0,0.0,Post,Control
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Caespitose,0.0,0.0,0.0,0.0,0.0,Post,Control
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Corymbose,0.5,0.5,0.5,0.0,0.0,Post,Control
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Digitate,0.0,0.0,0.0,0.0,0.0,Post,Control
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Solitary,0.0,0.0,0.0,0.0,0.0,Post,Control
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Tabular,0.0,0.0,0.0,0.0,0.0,Post,Control
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Foliose,0.0,0.0,0.0,0.0,0.0,Post,Control
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Laminar,0.0,0.5,0.0,0.0,0.0,Post,Control
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,Control
+AL1,Aow Leuk,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",Encrusting,0.0,0.0,0.0,0.0,0.0,Post,Control
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Massive,0.0,0.0,0.0,0.0,0.0,Post,High Density
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Sub_Massive,2.0,1.0,0.0,0.0,0.0,Post,High Density
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Arborescent,0.5,0.5,0.0,0.0,0.0,Post,High Density
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Caespitose,1.0,0.0,0.0,0.0,0.0,Post,High Density
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Corymbose,0.0,0.0,0.0,0.0,0.0,Post,High Density
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Digitate,0.0,1.0,0.0,0.0,0.0,Post,High Density
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Solitary,3.5,0.5,0.0,0.0,0.0,Post,High Density
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Tabular,2.0,0.5,1.5,3.0,0.0,Post,High Density
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Foliose,0.0,0.0,0.0,0.0,0.0,Post,High Density
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Laminar,0.0,1.5,0.5,0.0,0.0,Post,High Density
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,High Density
+TW3,Twins Wall,08/14/2025,8.7,13:09,23,15,"Amira, Sophie",Encrusting,4.5,1.5,0.0,0.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Massive,0.0,0.5,0.5,0.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Sub_Massive,1.5,4.0,2.0,1.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Arborescent,0.0,0.0,0.0,0.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Caespitose,0.0,0.0,0.0,0.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Corymbose,0.5,0.0,0.0,0.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Digitate,0.0,0.0,0.0,0.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Solitary,1.0,0.0,0.0,0.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Tabular,0.0,0.0,0.0,0.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Foliose,0.5,2.5,0.5,0.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Laminar,0.0,1.0,0.0,0.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,High Density
+GR21,Green Rock Wall,08/18/2025,9.1,7:20,32,12,"Iola, Tom",Encrusting,6.0,2.5,0.0,0.0,0.0,Post,High Density
