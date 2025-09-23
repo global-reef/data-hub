@@ -529,7 +529,7 @@ Aow Leuk,AL9,08/11/2025,8.3,15:20,18,20,"Teo, Mario",0,NA,NA,NA,NA,NA,Control
 Aow Leuk,AL10,08/11/2025,8.3,15:20,18,20,"Maddie, Maia",0,NA,NA,NA,NA,NA,Control
 Tanote Bay,TB2,08/11/2025,8.3,13:20,22,10,"Teo, Mario",1,N,HC,ENC,32,8.7,Control
 Twins Wall,TW13,08/14/2025,8.9,13:10,30,15,"Tom, Hannah",1,N,RK,NA,37,10,High Density
-Twins Wall,TW13,08/14/2025,8.9,13:10,30,15,"Tom, Hannah",2,Y,HC,EN,45,10.9,High Density
+Twins Wall,TW13,08/14/2025,8.9,13:10,30,15,"Tom, Hannah",2,Y,HC,ENC,45,10.9,High Density
 Twins Wall,TW13,08/14/2025,8.9,13:10,30,15,"Tom, Hannah",3,N,RK,NA,42,11.4,High Density
 Twins Wall,TW13,08/14/2025,8.9,13:10,30,15,"Tom, Hannah",4,N,HC,SUBM,51,11.9,High Density
 Twins Wall,TW13,08/14/2025,8.9,13:10,30,15,"Tom, Hannah",5,N,HC,ARB,56,9.3,High Density
@@ -539,13 +539,48 @@ Twins Wall,TW13,08/14/2025,8.9,13:10,30,15,"Tom, Hannah",8,N,RK,NA,30,11,High De
 Aow Leuk,AL13,08/28/25,8.4,15:24,20,12,"Amira, Maia",1,Y,HC,TAB,56,7.5,Control
 Tanote Bay,TB3,09/01/25,9,13:12,15,15,"Maddie, Mario",0,NA,NA,NA,NA,NA,Control
 Aow Leuk,AL14,09/01/25,8.7,15:26,17,8,"Maddie, Mario",1,Y,HC,ARB,34,8,
-Aow Leuk,AL14,09/01/25,8.7,15:26,17,8,"Maddie, Mario",2,N,HC,EN,42,10,
+Aow Leuk,AL14,09/01/25,8.7,15:26,17,8,"Maddie, Mario",2,N,HC,ENC,42,10,
 Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",1,N,HC,CB,42,11,
 Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",2,N,HC,SUBM,43,9.6,
 Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",3,N,HC,SUBM,38,7.5,
 Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",4,N,HC,FOL,44,11.2,
 Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",5,N,HC,TAB,40,9.5,
-Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",6,N,Rock/HC,SUBM,45,11.8,
-Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",7,N,Rock/HC,EN,43,10,
-Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",8,N,Rock/HC,EN,32,7.7,
+Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",6,N,HC,SUBM,45,11.8,
+Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",7,N,HC,ENC,43,10,
+Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",8,N,HC,ENC,32,7.7,
 Twins Wall,TW14,09/04/25,9.4,13:02,21,10,"Maddie, Mario",9,N,HC,CAE,45,11,
+Red Rock Wall,RR25,09/16/25,11.9,7:37,50,13,"Thomas, Simone",1,Y,RK,NA,42,16.6,
+Red Rock Wall,RR25,09/16/25,11.9,7:37,50,13,"Thomas, Simone",2,N,SA,NA,35,14.7,
+Red Rock Wall,RR25,09/16/25,11.9,7:37,50,13,"Thomas, Simone",3,N,SA,NA,48,15.4,
+Red Rock Wall,RR25,09/16/25,11.9,7:37,50,13,"Thomas, Simone",4,N,SA,NA,26,15.2,
+Red Rock Wall,RR25,09/16/25,11.9,7:37,50,13,"Thomas, Simone",5,Y,RK,NA,36,12.6,
+Red Rock Wall,RR26,09/16/25,11.9,7:37,50,13,"Liam, Agathe ",1,Y,HC,ENC,41,14,
+Red Rock Wall,RR26,09/16/25,11.9,7:37,50,13,"Liam, Agathe ",2,N,SA,NA,28,10.5,
+Red Rock Wall,RR26,09/16/25,11.9,7:37,50,13,"Liam, Agathe ",3,N,RK,NA,39,8,
+Green Rock Wall,GR37,09/16/25,11.2,7:37,50,13,"Ruby, Lily",1,N,RK,NA,29,11.8,
+Green Rock Wall,GR37,09/16/25,11.2,7:37,50,13,"Ruby, Lily",2,Y,HC,ENC,38,9.6,
+Green Rock Wall,GR37,09/16/25,11.2,7:37,50,13,"Ruby, Lily",3,Y,RK,NA,45,13.1,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",1,N,HC,ARB,27,8,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",2,N,RB,NA,40,10,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",3,N,HC,ENC,54,10.2,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",4,Y,RB,NA,42,7.7,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",5,Y,HC,ENC,50,8.3,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",6,N,RB,NA,50,8.3,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",7,Y,RB,NA,46,9.3,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",8,N,HC,SUBM,46,9.3,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",9,Y,HC,SUBM,41,7.7,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",10,Y,HC,ENC,44,9.3,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",11,Y,HC,SUBM,42,10.5,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",12,Y,HC,ENC,48,11.2,
+Green Rock Wall,GR37,09/16/25,7.5,7:37,50,13,"Scar, Mathys",13,N,RK,NA,48,11,
+Green Rock Wall,GR38,09/16/25,9.8,7:37,50,13,"Allie, Jake, Gav",N,RK,NA,27,11,,
+Green Rock Wall,GR38,09/16/25,9.8,7:37,50,13,"Allie, Jake, Gav",N,HC,NA,48,9.3,,
+Green Rock Wall,GR38,09/16/25,9.8,7:37,50,13,"Allie, Jake, Gav",N,HC,NA,43,9.2,,
+Green Rock Wall,GR38,09/16/25,9.8,7:37,50,13,"Allie, Jake, Gav",N,HC,NA,48,9.1,,
+Green Rock Wall,GR38,09/16/25,9.8,7:37,50,13,"Allie, Jake, Gav",Y,HC,NA,44,7.2,,
+Green Rock Wall,GR38,09/16/25,9.8,7:37,50,13,"Allie, Jake, Gav",N,HC,NA,46,9.3,,
+Green Rock Wall,GR38,09/16/25,9.8,7:37,50,13,"Allie, Jake, Gav",N,HC,NA,47,10.2,,
+Green Rock Wall,GR38,09/16/25,9.8,7:37,50,13,"Allie, Jake, Gav",N,HC,NA,43,10,,
+Green Rock Wall,GR38,09/16/25,9.8,7:37,50,13,"Allie, Jake, Gav",Y,HC,NA,47,10,,
+Green Rock Wall,GR38,09/16/25,9.8,7:37,50,13,"Allie, Jake, Gav",N,HC,ENC,47,12.1,,
+Green Rock Wall,GR38,09/16/25,9.8,7:37,50,13,"Allie, Jake, Gav",N,Sa,NA,46,10.4,,
