@@ -778,42 +778,54 @@ GR24,Green Rock,10/21/2025,12.0,7:23,25,8,"Marianna, Lily",Foliose,0.0,0.0,0.0,0
 GR24,Green Rock,10/21/2025,12.0,7:23,25,8,"Marianna, Lily",Laminar,0.0,0.0,0.0,0.0,0.0,Post,High Density
 GR24,Green Rock,10/21/2025,12.0,7:23,25,8,"Marianna, Lily",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,High Density
 GR24,Green Rock,10/21/2025,12.0,7:23,25,8,"Marianna, Lily",Encrusting,0.0,0.0,0.0,0.0,0.0,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Massive,1.5,1.0,1.0,0.0,0.5,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Sub_Massive,1.0,3.0,3.5,0.5,0.5,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Arborescent,0.5,0.0,0.0,0.0,0.0,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Caespitose,3.0,0.0,0.0,0.0,0.0,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Corymbose,0.0,0.0,0.5,0.5,0.0,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Digitate,0.0,0.0,0.0,0.0,0.0,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Solitary,13.5,3.5,0.5,0.0,0.0,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Tabular,2.0,1.0,0.0,0.5,1.5,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Foliose,5.0,2.0,0.0,0.0,0.0,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Laminar,0.0,0.0,0.0,0.0,0.0,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,High Density
-GR25,Green Rock Wall,1/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Encrusting,13.5,7.0,0.5,0.0,0.0,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Massive,1.0,1.0,0.0,0.5,0.0,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Sub_Massive,2.0,0.0,1.0,2.0,1.5,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Arborescent,0.0,0.0,1.0,0.0,0.0,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Caespitose,0.0,1.0,0.0,0.0,0.0,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Corymbose,1.0,0.0,0.0,0.0,0.0,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Digitate,0.0,0.0,0.0,0.0,0.0,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Solitary,11.0,1.0,0.0,0.0,0.0,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Tabular,0.0,0.5,0.0,0.5,0.5,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Foliose,4.5,2.0,0.0,0.0,0.0,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Laminar,0.0,2.5,0.0,0.0,0.0,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Intracolonial_Morph._Var.,0.0,0.5,0.0,0.0,0.0,Post,High Density
-RR26,Red Rock Wall,1/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Encrusting,19.0,3.5,0.5,0.5,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Massive,0.0,0.0,0.0,0.0,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Sub_Massive,2.0,1.0,1.0,0.0,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Arborescent,0.0,2.0,0.0,0.0,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Caespitose,0.0,0.0,0.0,0.0,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Corymbose,0.0,1.0,0.0,0.0,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Digitate,0.0,0.0,0.0,0.0,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Solitary,5.0,1.0,0.0,0.0,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Tabular,0.0,0.0,1.0,0.0,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Foliose,0.0,0.0,0.0,0.0,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Laminar,1.0,0.0,0.0,0.0,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,High Density
-TW6,Twins Wall,9/2/2026,9.0,13:13,35,10,"Low, Kassia",Encrusting,7.0,3.0,0.0,0.0,0.0,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Massive,1.5,1.0,1.0,0.0,0.5,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Sub_Massive,1.0,3.0,3.5,0.5,0.5,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Arborescent,0.5,0.0,0.0,0.0,0.0,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Caespitose,3.0,0.0,0.0,0.0,0.0,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Corymbose,0.0,0.0,0.5,0.5,0.0,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Digitate,0.0,0.0,0.0,0.0,0.0,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Solitary,13.5,3.5,0.5,0.0,0.0,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Tabular,2.0,1.0,0.0,0.5,1.5,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Foliose,5.0,2.0,0.0,0.0,0.0,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Laminar,0.0,0.0,0.0,0.0,0.0,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,High Density
+GR25,Green Rock Wall,01/19/2026,11.0,7:30,25,8,"Michael, Lauriane",Encrusting,13.5,7.0,0.5,0.0,0.0,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Massive,1.0,1.0,0.0,0.5,0.0,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Sub_Massive,2.0,0.0,1.0,2.0,1.5,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Arborescent,0.0,0.0,1.0,0.0,0.0,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Caespitose,0.0,1.0,0.0,0.0,0.0,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Corymbose,1.0,0.0,0.0,0.0,0.0,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Digitate,0.0,0.0,0.0,0.0,0.0,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Solitary,11.0,1.0,0.0,0.0,0.0,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Tabular,0.0,0.5,0.0,0.5,0.5,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Foliose,4.5,2.0,0.0,0.0,0.0,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Laminar,0.0,2.5,0.0,0.0,0.0,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Intracolonial_Morph._Var.,0.0,0.5,0.0,0.0,0.0,Post,High Density
+RR26,Red Rock Wall,01/19/2026,10.0,9:58,27,6,"Ruby, Vic ",Encrusting,19.0,3.5,0.5,0.5,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Massive,0.0,0.0,0.0,0.0,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Sub_Massive,2.0,1.0,1.0,0.0,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Arborescent,0.0,2.0,0.0,0.0,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Caespitose,0.0,0.0,0.0,0.0,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Corymbose,0.0,1.0,0.0,0.0,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Digitate,0.0,0.0,0.0,0.0,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Solitary,5.0,1.0,0.0,0.0,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Tabular,0.0,0.0,1.0,0.0,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Foliose,0.0,0.0,0.0,0.0,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Laminar,1.0,0.0,0.0,0.0,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,High Density
+TW6,Twins Wall,02/09/2026,9.0,13:13,35,10,"Low, Kassia",Encrusting,7.0,3.0,0.0,0.0,0.0,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Massive,11.0,1.0,0.0,0.0,0.0,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Sub_Massive,0.0,0.5,0.0,0.5,0.5,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Arborescent,4.5,2.0,0.0,0.0,0.0,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Caespitose,0.0,2.5,0.0,0.0,0.0,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Corymbose,0.0,0.5,0.0,0.0,0.0,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Digitate,19.0,3.5,0.5,0.5,0.0,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Solitary,0.0,0.0,0.0,0.0,0.0,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Tabular,2.0,1.0,1.0,0.0,0.0,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Foliose,0.0,2.0,0.0,0.0,0.0,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Laminar,0.0,0.0,0.0,0.0,0.0,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Intracolonial_Morph._Var.,0.0,1.0,0.0,0.0,0.0,Post,High Density
+TW7,Twins Wall,02/09/2026,10.0,13:13,35,10,"Louis, Harri",Encrusting,0.0,0.0,0.0,0.0,0.0,Post,High Density
 GR26,Green Rock Wall,02/10/2026,11.5,9:19,28,10,"Michael, Victoria",Massive,0.0,0.0,0.5,0.0,0.5,Post,High Density
 GR26,Green Rock Wall,02/10/2026,11.5,9:19,28,10,"Michael, Victoria",Sub_Massive,2.5,2.0,2.5,0.5,0.0,Post,High Density
 GR26,Green Rock Wall,02/10/2026,11.5,9:19,28,10,"Michael, Victoria",Arborescent,0.0,0.5,0.0,0.0,0.0,Post,High Density
@@ -838,3 +850,27 @@ RR27,Red Rock Wall,02/10/2026,10.7,7:17,25,8,"Jasmine, Felix",Foliose,0.0,1.5,0.
 RR27,Red Rock Wall,02/10/2026,10.7,7:17,25,8,"Jasmine, Felix",Laminar,1.0,2.0,1.5,1.0,0.5,Post,High Density
 RR27,Red Rock Wall,02/10/2026,10.7,7:17,25,8,"Jasmine, Felix",Intracolonial_Morph._Var.,0.0,0.5,0.5,0.0,0.0,Post,High Density
 RR27,Red Rock Wall,02/10/2026,10.7,7:17,25,8,"Jasmine, Felix",Encrusting,6.0,7.0,2.0,2.0,2.0,Post,High Density
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Massive,4.0,3.5,0.0,0.0,0.0,Post,Control 
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Sub_Massive,0.0,0.0,0.0,0.0,0.0,Post,Control 
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Arborescent,0.0,0.0,0.0,0.0,0.0,Post,Control 
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Caespitose,0.0,0.5,0.0,0.0,0.0,Post,Control 
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Corymbose,0.0,0.0,0.0,0.0,0.0,Post,Control 
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Digitate,15.5,3.5,0.0,0.5,0.5,Post,Control 
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Solitary,1.5,1.5,0.5,0.5,0.0,Post,Control 
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Tabular,2.5,3.0,1.0,1.0,1.0,Post,Control 
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Foliose,0.0,0.0,0.0,0.0,0.0,Post,Control 
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Laminar,1.0,1.0,0.0,0.0,0.0,Post,Control 
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,Control 
+TB4,Tanote Wall,02/10/2026,8.6,12:55,30,8,"Louis, Jackson",Encrusting,0.0,0.0,0.0,0.0,0.0,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Massive,17.0,14.0,0.5,0.5,0.0,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Sub_Massive,0.0,0.5,0.0,0.0,0.0,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Arborescent,0.0,1.5,0.5,0.5,0.0,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Caespitose,1.0,2.0,1.5,1.0,0.5,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Corymbose,0.0,0.5,0.5,0.0,0.0,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Digitate,6.0,7.0,2.0,2.0,2.0,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Solitary,4.0,3.5,0.0,0.0,0.0,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Tabular,0.0,0.0,0.0,0.0,0.0,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Foliose,0.0,0.0,0.0,0.0,0.0,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Laminar,0.0,0.5,0.0,0.0,0.0,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Intracolonial_Morph._Var.,0.0,0.0,0.0,0.0,0.0,Post,Control 
+AL4,Aow Leuk,02/10/2026,8.8,14:58,15:25,7,"Beth, Jess",Encrusting,15.5,3.5,0.0,0.5,0.5,Post,Control 
